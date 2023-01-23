@@ -1,0 +1,3 @@
+Przy każdej z opcji znajduje się numerek. Aby wybrać daną opcję należy wprowadzić na klawiaturze przypisany numerek opcji.
+Jeśli wybrany zostanie inny numerek niż ten przypisany do opcji, to program wykona pętle raz jeszcze lub z niej wyjdzie.
+W większości opcji jest w nawiasach podpiwiedź co trzeba wpisać. Jeśli wyskoczy napis np. Strony, to trzeba wpisać liczbę całkowitą
